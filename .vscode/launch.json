@@ -1,0 +1,96 @@
+{
+
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SortedSinglyDriver",
+            "request": "launch",
+            "mainClass": "SortedSinglyDriver",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SinglyListDriver",
+            "request": "launch",
+            "mainClass": "SinglyListDriver",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidParenthesis",
+            "request": "launch",
+            "mainClass": "ValidParenthesis",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortedLList",
+            "request": "launch",
+            "mainClass": "SortedLList",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueULList",
+            "request": "launch",
+            "mainClass": "QueueULList",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackULList",
+            "request": "launch",
+            "mainClass": "StackULList",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysDemo",
+            "request": "launch",
+            "mainClass": "ArraysDemo",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularQue",
+            "request": "launch",
+            "mainClass": "CircularQue",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch QUArrays",
+            "request": "launch",
+            "mainClass": "QUArrays",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseStr",
+            "request": "launch",
+            "mainClass": "ReverseStr",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Slist",
+            "request": "launch",
+            "mainClass": "Slist",
+            "projectName": "ADSArrays_7c69686b"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackUarray",
+            "request": "launch",
+            "mainClass": "StackUarray",
+            "projectName": "ADSArrays_7c69686b"
+        }
+    ]
+}
