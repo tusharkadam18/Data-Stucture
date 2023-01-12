@@ -19,7 +19,6 @@ public class CircularQue implements QueueIntF<Integer> {
         }
         cqueue[rear] = element;
         rear = (rear + 1) % (cqueue.length);
-
     }
 
     @Override
